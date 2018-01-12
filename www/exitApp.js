@@ -1,5 +1,5 @@
 var exec = require('cordova/exec');
-exports.exitApp = function(askUser) {
+exports.exitAppIOS = function(askUser) {
     
     if (!askUser) {
         askUser = false;
