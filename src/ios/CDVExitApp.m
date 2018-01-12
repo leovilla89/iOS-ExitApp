@@ -3,7 +3,7 @@
 
 @implementation CDVExitApp
 
-- (void)exitApp:(CDVInvokedUrlCommand*)command
+- (void)exitAppIOS:(CDVInvokedUrlCommand*)command
 {
     
     CDVPluginResult* pluginResult = nil;
