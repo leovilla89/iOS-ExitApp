@@ -6,6 +6,6 @@
 
 CDVExitApp : CDVPlugin
 
-- (void)exitApp:(CDVInvokedUrlCommand*)command;
+- (void)exitAppIOS:(CDVInvokedUrlCommand*)command;
 
 @end
