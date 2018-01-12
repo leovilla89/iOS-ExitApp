@@ -13,7 +13,7 @@ exports.exitAppIOS = function(askUser) {
             console.log("Error");
         },
         'CDVExitApp',
-        'exitApp', 
+        'exitAppIOS', 
         [askUser]
     );
 };
